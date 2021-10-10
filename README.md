@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  The whole family
+  The whole family, doing funky wifi stuff.
 </p>
 
 ## Table of Contents
@@ -40,3 +40,7 @@ Pinout:
 6. RST, Reset
 7. CH_PD, Chip power-down
 8. TX, Transmit data out, also GPIO1
+
+<p align="center">
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/0/08/ESP8266_01_PinOut.png" width=700>
+</p>
