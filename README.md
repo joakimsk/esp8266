@@ -16,23 +16,21 @@
 
 ## Introduction
 This repo contains useful stuff regarding the ESP8266. Intention is to keep all useful stuff in one place, as well as some code.
+The ESP8266 is a Low-cost Wi-Fi microchip. Produced by Espressif Systems in Shanghai, China. Can be programmed using Arduino IDE.
 
-## The ESP8266
-Low-cost Wi-Fi microchip. Produced by Espressif Systems in Shanghai, China.
+## Hardware modules
 
-## A selection of modules by third-party manufacturer Ai-Thinker:
+### Third-party manufacturer Ai-Thinker
 - ESP01
 - ESP07
 - ESP12
 
 Read more here [https://en.wikipedia.org/wiki/ESP8266#Espressif_modules]
 
-## Modules provided by others:
+### By others
 - NodeMCU
 
-
-
-## ESP01
+## ESP01 in detail
 Pinout:
 1. GND, Ground (0 V)
 2. GPIO 2, General-purpose input/output No. 2
