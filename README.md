@@ -50,7 +50,7 @@ The GPIO 2 is used to set the ESP8266 into different modes. This means that if p
 
 The GPIO 0 is used to choose boot mode. Pull up to boot from SPI Flash (normal operation), or pull down to program via UART. When we upload a program, we want to pull GPIO 0 down.
 
-The RST pin is pulled down while the esptool.py tries to connect. If it connects, it should immediately start uploading the program. Afterwards, the power should be cycled, and GPIO 0 be pulled up.
+The RST pin needs to be pulled down while the esptool.py tries to connect. If it connects, it should immediately start uploading the program. Afterwards, the power should be cycled, and GPIO 0 be pulled up.
 
 
 ### Tricks to extend ESP01
